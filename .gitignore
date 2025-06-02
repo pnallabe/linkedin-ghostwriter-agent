@@ -5,3 +5,5 @@ rag_agent_data/
 models/
 output/
 .env
+/lib/
+*.dylib
